@@ -1,2 +1,2 @@
 # Twitter-Sentiment-Analysis
-Pyspark Script for Twitter Sentiment Analysis for Hastags
+## Pyspark Script for Twitter Sentiment Analysis for Hastags
